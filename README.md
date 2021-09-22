@@ -1,5 +1,7 @@
 # Desafio9
 
+Dump contiene la db ecommerce.
+
 1) ### Agregar a colección producto:
 	db.productos.insert({nombre:'Aire Acondicionado',precio:1200,url:'www.pc.com'})
 
